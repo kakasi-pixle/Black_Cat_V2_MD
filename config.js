@@ -66,10 +66,10 @@ global.mes = d.toLocaleDateString('ar', {month: 'long'});
 global.año = d.toLocaleDateString('ar', {year: 'numeric'});
 global.tiempo = d.toLocaleString('ar-EG', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 
-global.wm2 = `${dia} ${fecha}\n𝕊ℍ𝔸𝕎𝔸ℤ𝔸-𝔹𝕆𝕋`;
-global.gt = '𝐒𝐇𝐀𝐖𝐀𝐙𝐀-𝐁𝐎𝐓';
-global.mysticbot = '𝐒𝐇𝐀𝐖𝐀𝐙𝐀-𝐁𝐎𝐓';
-global.channel = 'https://whatsapp.com/channel/0029Vaein6eInlqIsCXpDs3y';
+global.wm2 = `${dia} ${fecha}\n𝐵𝐿𝐴𝐶𝐾-𝐵𝛩𝑇`;
+global.gt = '𝐵𝐿𝐴𝐶𝐾-𝐵𝛩𝑇';
+global.mysticbot = '𝐵𝐿𝐴𝐶𝐾-𝐵𝛩𝑇';
+global.channel = 'https://whatsapp.com/channel/0029VacWb364dTnEKmVWd628';
 global.md = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
 global.mysticbot = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
 
