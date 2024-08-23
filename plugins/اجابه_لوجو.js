@@ -3,7 +3,7 @@ const threshold = .72;
 export async function before(m) {
   let id = m.chat;
   if (!m.quoted || !m.quoted?.fromMe || !m.text || !/لوجو/i.test(m.quoted?.text) || /لوجو/i.test(m.text)) return !0;
-  if (this.tebaklogo = this.tebaklogo ? this.tebaklogo : {}, !(id in this.tebaklogo)) return await this.reply(m.chat, "انتهي السؤال", m);
+  if (this.tebaklogo = this.tebaklogo ? this.tebaklogo : {}, !(id in this.tebaklogo)) return await this.reply(m.chat, "انــتــهــى الــســؤال", m);
   if (m.quoted?.id === this.tebaklogo[id][0]?.id) {
     if (/^((me)?nyerah|surr?ender|انسحب)$/i.test(m.text)) return clearTimeout(this.tebaklogo[id][3]),
       delete this.tebaklogo[id], await this.reply(m.chat, "*╮────────────────⟢ـ\n *انـسـحـبـت مـا هـو أنـت فـاشـل يـبـنـى*😏\n╯────────────────⟢ـ*", m);
