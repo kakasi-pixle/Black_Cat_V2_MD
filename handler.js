@@ -1863,7 +1863,7 @@ global.dfail = (type, m, conn) => {
   };
 
   const msg = messages[type];
-  const img2 = 'https://telegra.ph/file/098c5133099eb3f0fbb54.jpg';
+  const img2 = 'https://telegra.ph/file/5f8e14a2a293e208c9307.jpg';
 
   if (msg) {
     return conn.sendMessage(m.chat, {
