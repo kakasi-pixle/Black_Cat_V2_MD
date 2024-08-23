@@ -16,10 +16,10 @@ global.owner = [
 ];
 
 global.ownername = '𝐵𝐿𝐴𝐶𝐾-𝐵𝛩𝑇';
-global.ownernumber = '201145624848';
+global.ownernumber = '967772046716';
 
-global.suittag = ['201145624848', '201204885212'];
-global.prems = ['201145624848', '201204885212'];
+global.suittag = ['967772046716'];
+global.prems = ['967772046716'];
 
 global.packname = '𝐵𝐿𝐴𝐶𝐾-𝐵𝛩𝑇';
 global.author = '𝐵𝐿𝐴𝐶𝐾-𝐵𝛩𝑇';
