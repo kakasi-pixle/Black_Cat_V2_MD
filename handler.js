@@ -1876,7 +1876,7 @@ global.dfail = (type, m, conn) => {
           thumbnailUrl: img2,
           mediaUrl: img2,
           mediaType: 1,
-          sourceUrl: 'https://www.atom.bio/shawaza-2000/',
+          sourceUrl: 'https://whatsapp.com/channel/0029VacWb364dTnEKmVWd628',
           renderLargerThumbnail: true
         }
       }
