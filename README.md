@@ -1,6 +1,6 @@
 # <span style="color: #4C0000;">𝐵𝐿𝐴𝐶𝐾 - 𝐵𝛩𝑇</span>
 
-<img src="https://telegra.ph/file/c5117e02e5a75c10c6e2d.jpg" alt="Icon Bot" style="border: 2px solid #4CAF50; border-radius: 8px; display: block; margin-left: auto; margin-right: auto; width: 50%;">
+<img src="https://telegra.ph/file/5f8e14a2a293e208c9307.jpg" alt="Icon Bot" style="border: 2px solid #4CAF50; border-radius: 8px; display: block; margin-left: auto; margin-right: auto; width: 50%;">
 
 ## <span style="color: #4CAF50;">الوصف</span>
 <span style="color: #555;">بوت واتساب يعمل باعلي تقنيات الذكاء الاصطناعي</span>
