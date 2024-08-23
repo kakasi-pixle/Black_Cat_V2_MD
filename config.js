@@ -47,7 +47,7 @@ global.imagen8 = fs.readFileSync('./Menu.png')
 global.imagen9 = fs.readFileSync('./Menu.png')
 global.imagen10 = fs.readFileSync('./Menu.png')
 
-global.img1 = 'https://telegra.ph/file/ba984d78fa802662438ee.jpg';
+global.img1 = 'https://telegra.ph/file/c5117e02e5a75c10c6e2d.jpg';
 global.img2 = 'https://telegra.ph/file/0e22282b399e105776618.jpg';
 global.img3 = 'https://telegra.ph/file/5e6456d22a8264b08a2bc.jpg';
 global.img4 = 'https://telegra.ph/file/996f53288a1e2f4f35812.jpg';
