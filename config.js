@@ -11,15 +11,15 @@ global.botnumber = ""
 global.confirmCode = ""
 
 global.owner = [
-  ['967772046716', '𝐵𝐿𝐴𝐶𝐾-𝐵𝛩𝑇', true],
-  ['13065188003','𝐵𝐿𝐴𝐶𝐾 𝑀𝑌 𝐵𝛩𝑇', true]
+  ['201550680822', '𝐵𝐿𝐴𝐶𝐾-𝐵𝛩𝑇', true],
+  ['201553325323','𝐵𝐿𝐴𝐶𝐾 𝑀𝑌 𝐵𝛩𝑇', true]
 ];
 
 global.ownername = '𝐵𝐿𝐴𝐶𝐾-𝐵𝛩𝑇';
-global.ownernumber = '967772046716';
+global.ownernumber = '201550680822';
 
-global.suittag = ['967772046716'];
-global.prems = ['967772046716'];
+global.suittag = ['201550680822'];
+global.prems = ['201550680822'];
 
 global.packname = '𝐵𝐿𝐴𝐶𝐾-𝐵𝛩𝑇';
 global.author = '𝐵𝐿𝐴𝐶𝐾-𝐵𝛩𝑇';
@@ -77,7 +77,7 @@ global.waitt = '*━────── •●• ──────━*\n> [ �
 global.waittt = '*━────── •●• ──────━*\n> [ 🧞 ] جاري التحميل ...\n*━────── •●• ──────━*';
 global.waitttt = '*[*━────── •●• ──────━*\n> [ 🧞 ] جاري التحميل ...\n*━────── •●• ──────━*';
 
-global.nomorown = '967772046716';
+global.nomorown = '201550680822';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 
 global.cmenut = '❖––––––『';
